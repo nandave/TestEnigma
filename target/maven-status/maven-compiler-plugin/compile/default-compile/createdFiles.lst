@@ -2,6 +2,7 @@ com\enigma\test\controller\PositionController.class
 com\enigma\test\model\Player.class
 com\enigma\test\Application.class
 com\enigma\test\repository\PositionRepository.class
+com\enigma\test\config\SwaggerConfig.class
 com\enigma\test\controller\MatchPlayerController.class
 com\enigma\test\model\Position.class
 com\enigma\test\service\PositionService.class
