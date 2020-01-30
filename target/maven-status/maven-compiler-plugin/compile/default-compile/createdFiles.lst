@@ -1,0 +1,13 @@
+com\enigma\test\controller\PositionController.class
+com\enigma\test\model\Player.class
+com\enigma\test\Application.class
+com\enigma\test\repository\PositionRepository.class
+com\enigma\test\controller\MatchPlayerController.class
+com\enigma\test\model\Position.class
+com\enigma\test\service\PositionService.class
+com\enigma\test\service\MatchPlayerService.class
+com\enigma\test\controller\PlayerController.class
+com\enigma\test\repository\PlayerRepository.class
+com\enigma\test\service\PlayerService.class
+com\enigma\test\model\MatchPlayer.class
+com\enigma\test\repository\MatchPlayerRepository.class
