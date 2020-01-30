@@ -14,7 +14,7 @@ Test Kerja Enigma
   mysql -u root -p -h <your current IP> example>> mysql -u root -h 10.10.15.130
   
 - kedua jalankan docker-compose up
-- lalu uji di browser dengan alamat "http://localhost:7000/<dengan api sesuai diaplikasi>"
+- lalu uji di browser dengan alamat "http://localhost:7000/<dengan api sesuai diaplikasi>" 
 
 # untuk melihat swagger
 - ketikkan dibrowser : "localhost:7000/swagger-ui.html"
